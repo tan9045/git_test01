@@ -5,5 +5,6 @@ public class gitdemo01 {
         System.out.println("git");
         System.out.println("git01");
         System.out.println("git hot fix");
+        System.out.println("git mastertest");
     }
 }
